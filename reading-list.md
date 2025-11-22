@@ -6,3 +6,4 @@
 - [ ] [Age of First Smartphone/Tablet and Mental Wellbeing Outcomes](articles/age-of-first-smartphone-tablet-and-mental-wellbeing-outcomes.md)
 - [ ] [A Practical Guide to Building Agents](articles/a-practical-guide-to-building-agents.md)
 - [ ] [EU Urges Citizens to Stockpile Emergency Supplies Amid Rising Security Threats](articles/eu-urges-citizens-to-stockpile-emergency-supplies-amid-rising-security-threats.md)
+- [x] [Building Agents: Lessons Learned from Real Implementation](articles/building-agents-lessons-learned-from-real-implementation.md)
